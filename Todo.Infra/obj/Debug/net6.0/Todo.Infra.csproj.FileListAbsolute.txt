@@ -1,0 +1,12 @@
+C:\Dev\Todo\Todo.Infra\bin\Debug\net6.0\Todo.Infra.deps.json
+C:\Dev\Todo\Todo.Infra\bin\Debug\net6.0\Todo.Infra.dll
+C:\Dev\Todo\Todo.Infra\bin\Debug\net6.0\ref\Todo.Infra.dll
+C:\Dev\Todo\Todo.Infra\bin\Debug\net6.0\Todo.Infra.pdb
+C:\Dev\Todo\Todo.Infra\obj\Debug\net6.0\Todo.Infra.csproj.AssemblyReference.cache
+C:\Dev\Todo\Todo.Infra\obj\Debug\net6.0\Todo.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Todo\Todo.Infra\obj\Debug\net6.0\Todo.Infra.AssemblyInfoInputs.cache
+C:\Dev\Todo\Todo.Infra\obj\Debug\net6.0\Todo.Infra.AssemblyInfo.cs
+C:\Dev\Todo\Todo.Infra\obj\Debug\net6.0\Todo.Infra.csproj.CoreCompileInputs.cache
+C:\Dev\Todo\Todo.Infra\obj\Debug\net6.0\Todo.Infra.dll
+C:\Dev\Todo\Todo.Infra\obj\Debug\net6.0\ref\Todo.Infra.dll
+C:\Dev\Todo\Todo.Infra\obj\Debug\net6.0\Todo.Infra.pdb
